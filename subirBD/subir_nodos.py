@@ -8,7 +8,7 @@ from pymongo import MongoClient
 CARPETA = r"C:\Users\GoodM\Downloads\datos_para_plots\datos_para_plots"
 CARPETA_ANOM = r"C:\Users\GoodM\Downloads\con_anomalias_centro\con_anomalias_centro"
 
-client = MongoClient("mongodb+srv://erick:kikotrukini1@cluster0.aaonird.mongodb.net/")
+client = MongoClient("mongodb+srv://esconder cluste")
 db = client["cfe_db"]   # base de datos general
 
 
